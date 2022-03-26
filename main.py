@@ -1,3 +1,5 @@
+# Kivy is required before running this program 
+
 import kivy
 kivy.require('1.1.1')
 

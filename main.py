@@ -2,6 +2,7 @@
 
 import kivy
 kivy.require('1.1.1')
+#verson of the app 
 
 from kivy.app import App
 from kivy.uix.widget import Widget

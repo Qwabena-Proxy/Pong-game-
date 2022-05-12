@@ -1,5 +1,5 @@
 # Kivy is required before running this program 
-
+# Virtual Environment must be on
 import kivy
 kivy.require('1.1.1')
 #verson of the app is 1.1.1
